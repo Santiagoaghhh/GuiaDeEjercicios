@@ -38,4 +38,11 @@ Enfriamiento (5-10 minutos)
 Finaliza el entrenamiento con un ritmo suave, disminuyendo gradualmente la velocidad. Si estás en una bicicleta estática, disminuye la resistencia para que tu frecuencia cardíaca vuelva a la normalidad.
 Realiza estiramientos, especialmente para las piernas (isquiotibiales, cuádriceps, pantorrillas y glúteos), para evitar rigidez muscular.
 
+# Consejos
+Consejos
+Ajuste de la bicicleta: Asegúrate de que la bicicleta esté correctamente ajustada a tu altura. Los pies deben estar completamente en el pedal cuando la pierna esté extendida, pero sin estirarse demasiado.
+Hidratación: Mantén una buena hidratación durante la práctica, especialmente si es intensa o si vas a hacer ciclismo al aire libre en días calurosos.
+Escoge un ritmo adecuado: En el entrenamiento de resistencia, el ritmo debe ser desafiante, pero no tan alto como para agotarte rápidamente. En los intervalos, asegúrate de que los períodos de alta intensidad sean lo suficientemente desafiantes como para mejorar tu rendimiento.
+Seguridad: Si haces ciclismo al aire libre, usa siempre casco y sigue las reglas de tráfico. Asegúrate de estar visible para otros ciclistas y conductores.
+
 
