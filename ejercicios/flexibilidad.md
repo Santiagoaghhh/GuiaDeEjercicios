@@ -26,3 +26,7 @@ Relajación (5 minutos)
 Realiza respiraciones profundas mientras te estiras, concentrándote en relajarte.
 Toma unos minutos para relajar los músculos y liberar cualquier tensión residual.
 
+#Consejos
+Evita rebotar al realizar los estiramientos, ya que esto puede generar microlesiones. Estira de forma controlada y suave.
+Respira profundamente mientras te estiras. No te aguantes la respiración, esto te ayudará a relajarte y alcanzar una mayor flexibilidad.
+Hazlo regularmente: Para mejorar tu flexibilidad, la clave está en la constancia. Intenta incluir estos estiramientos 2-3 veces por semana, o incluso después de cada entrenamiento.
