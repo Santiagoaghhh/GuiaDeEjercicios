@@ -18,3 +18,10 @@ Movimiento básico: Gira la cuerda con las muñecas mientras saltas ligeramente 
 Tiempos y ritmo: Comienza con saltos suaves y aumenta la velocidad y la duración de los saltos conforme te vayas sintiendo más cómodo. Puedes alternar entre saltos rápidos y más lentos para variar la intensidad.
 Respiración: Mantén una respiración constante durante el ejercicio. Inhala y exhala de manera regular para evitar la fatiga.
 Finaliza de forma progresiva: Al terminar, reduce gradualmente la velocidad y realiza estiramientos para evitar lesiones.
+
+#Consejos
+sa el calzado adecuado: Asegúrate de usar zapatillas deportivas con buen soporte para evitar lesiones en las articulaciones.
+Comienza despacio: Si eres principiante, empieza con sesiones cortas, de 1 a 2 minutos, y ve aumentando el tiempo conforme vayas mejorando tu resistencia.
+Mantén una postura correcta: Mantén el cuerpo recto, con las rodillas ligeramente flexionadas y el abdomen contraído para evitar tensión innecesaria.
+Variaciones: Puedes probar diferentes estilos de salto, como el salto con un solo pie, el cruce de la cuerda o el salto alternado para añadir dificultad.
+Superficies adecuadas: Evita saltar sobre superficies duras como el concreto, ya que podría afectar las articulaciones. Mejor en una superficie suave como el caucho o una esterilla.
