@@ -32,3 +32,9 @@ Saltos de caja (Box Jumps): Mejora la agilidad y la potencia, trabajando piernas
 Enfriamiento (5-10 minutos)
 Después del entrenamiento, realiza estiramientos estáticos para los principales grupos musculares: cuádriceps, isquiotibiales, espalda, hombros y piernas. También puedes realizar respiraciones profundas para ayudar a la relajación.
 
+# Consejos
+Forma correcta: Asegúrate de mantener una postura adecuada durante todos los ejercicios. La técnica es clave para evitar lesiones.
+Progresión: Si eres principiante, comienza sin pesas o con pesos ligeros. A medida que ganes fuerza y resistencia, aumenta la carga.
+Ritmo controlado: Realiza los movimientos con control y evita el impulso excesivo.
+
+
