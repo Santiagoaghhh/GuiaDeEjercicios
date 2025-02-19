@@ -13,4 +13,8 @@ Quema calorías: Las sentadillas son un ejercicio de alta intensidad que ayuda a
 Fortalece el core: Aunque se enfocan en las piernas, las sentadillas también activan los músculos del core, lo que contribuye a una mejor postura y fuerza general.
 Previene lesiones: Al fortalecer las piernas y el core, las sentadillas ayudan a prevenir lesiones en la parte baja del cuerpo, especialmente en las rodillas y la espalda.
 
+#Consejos
+Hidratación: Mantente hidratado antes, durante y después de tu sesión.
+Ritmo adecuado: Si es tu primera vez, mantén un ritmo cómodo para evitar la fatiga prematura.
+Variedad: Cambia las actividades para mantener la motivación. Si un día corres, al siguiente puedes nadar o andar en bicicleta.
 
