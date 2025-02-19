@@ -35,3 +35,10 @@ Savasana (Postura del cadáver): Acuéstate de espaldas, con los brazos a los la
 Meditación o respiración consciente: Si lo deseas, realiza una pequeña meditación o concéntrate en tu respiración para finalizar la práctica de manera tranquila.
 
 
+# Consejos
+Escucha a tu cuerpo: No fuerces ninguna postura. El yoga debe sentirse cómodo, no doloroso. Si sientes incomodidad, ajusta la postura o descansa.
+Respiración: La respiración es clave en el yoga. Intenta sincronizar la respiración con los movimientos. Generalmente, inhalas al prepararte para un movimiento y exhalas al ejecutarlo.
+Mantén la concentración: Intenta estar presente en cada movimiento y postura. Esto ayudará a reducir el estrés y mejorar los beneficios mentales del yoga.
+Practica regularmente: Para obtener los máximos beneficios, trata de practicar yoga 2-3 veces por semana, aunque con solo 10-15 minutos al día puedes notar mejoras.
+
+
