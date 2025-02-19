@@ -3,14 +3,14 @@
 # Descripción
 El boxeo es un deporte de combate que involucra una combinación de fuerza, agilidad, velocidad y técnica. Además de ser un excelente ejercicio cardiovascular, el boxeo mejora la coordinación, el equilibrio y la resistencia muscular, especialmente en los músculos del core, los brazos y las piernas.
 
-#Beneficios
+# Beneficios
 Mejora la resistencia cardiovascular: El entrenamiento de boxeo eleva la frecuencia cardíaca, ayudando a mejorar la salud del corazón.
 Tonifica el cuerpo: Se trabaja el cuerpo de forma integral, desde los hombros y los brazos hasta las piernas y el core.
 Desarrolla fuerza y potencia: Golpear, esquivar y moverse durante el entrenamiento ayuda a aumentar la fuerza muscular.
 Aumenta la coordinación y agilidad: El boxeo requiere movimientos rápidos, tanto en términos de pies como de manos, lo que mejora la coordinación y el tiempo de reacción.
 Alivio del estrés: El boxeo es una excelente forma de liberar tensiones y mejorar el estado de ánimo.
 
-#Instrucciones
+# Instrucciones
 Calentamiento (5-10 minutos)
 El calentamiento es fundamental para preparar tu cuerpo para un entrenamiento intenso. Puedes comenzar con:
 
@@ -45,4 +45,9 @@ Saltar la cuerda o caminar lentamente durante 2-3 minutos.
 Estiramientos estáticos: Estira los músculos que más trabajaste durante el entrenamiento, especialmente los hombros, los brazos, las piernas y el core. Mantén cada estiramiento durante 20-30 segundos.
 Respiración profunda: Realiza respiraciones profundas y controladas para relajar el cuerpo.
 
-
+# Consejos
+Postura adecuada: Mantén siempre una postura firme. Las piernas deben estar ligeramente flexionadas y los hombros relajados, manteniendo las manos en guardia (las manos deben estar a la altura de tu cara).
+Controla la respiración: Evita contener la respiración mientras golpeas. Exhala cada vez que realizas un golpe para mantener el flujo de oxígeno.
+Entrenamiento mental: El boxeo también involucra concentración. Visualiza tus movimientos y trabaja en tu técnica para ser más eficiente.
+Hidratación: Asegúrate de mantenerte hidratado antes, durante y después del entrenamiento.
+Equipamiento: Si entrenas con un saco de boxeo, utiliza guantes y vendas para proteger tus manos y muñecas. Si es solo entrenamiento en sombra, no es necesario el equipo adicional.
