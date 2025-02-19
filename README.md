@@ -3,7 +3,7 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 
 ## Tipos de Ejercicio
 
-- [Ejercicio Cardio](GuiaDeEjercicios/ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
+- [Ejercicio Cardio](main/ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
 - [Ejercicio de Fuerza](GuiaDeEjercicios/ejercicios/fuerza.md): Aumenta la masa muscular y la fuerza.
 - [Ejercicio de Flexibilidad](GuiaDeEjercicios/ejercicios/flexibilidad.md): Mejora la movilidad y reduce el riesgo de lesiones.
 - [Ejercicio de Entrenamiento Funcional](GuiaDeEjercicios/ejercicios/entrenamiento_funcional.md): Mejora la fuerza en movimientos cotidianos.
